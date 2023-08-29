@@ -1,2 +1,2 @@
 # HackerRankAlgorithms
-My solutions for the algorithms' problems on HackerRank.
+My solutions for the Problem Solving preperation on HackerRank.
