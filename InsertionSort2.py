@@ -8,4 +8,4 @@ def insertionSort2(n, arr):
 
 
 arr=[1,3,4,5,2]
-insertionSort2(arr)
+insertionSort2(len(arr), arr)
