@@ -14,4 +14,4 @@ def insertionSort1(arr):
     
 
 arr=[8,3,4,5,7,6,2]
-insertionSort2(len(arr), arr)
+insertionSort1(arr)
